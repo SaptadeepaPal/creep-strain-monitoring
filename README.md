@@ -63,6 +63,11 @@ A typical creep curve consists of three distinct stages:
 
 The transition from secondary to tertiary creep is the most critical phase because it provides the last opportunity to replace the component before catastrophic failure.
 
+# Screenshots
+
+## Creep Curve
+<img width="751" height="452" alt="image" src="https://github.com/user-attachments/assets/820f60cb-67d0-43db-b211-695825197c13" />
+
 ---
 
 
@@ -366,25 +371,6 @@ Alert Generation
 ✅ Low prediction error (RMSE: **0.1089 % strain**)
 
 ✅ End-to-end deployment through an interactive Streamlit application
-
----
-
-# Screenshots
-
-## Creep Curve
-<img width="751" height="452" alt="image" src="https://github.com/user-attachments/assets/820f60cb-67d0-43db-b211-695825197c13" />
-
----
-
-# Key Learning Outcomes
-
-- Applied Machine Learning to a real industrial research problem
-- Worked with experimental data from high-temperature creep testing
-- Understood Eddy Current based Non-Destructive Evaluation techniques
-- Developed an end-to-end regression pipeline
-- Compared multiple ensemble learning algorithms
-- Built an intelligent rule-based industrial warning system
-- Deployed the complete solution as an interactive web application
 
 ---
 
