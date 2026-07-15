@@ -28,6 +28,17 @@ Using real experimental data collected during my internship at **CSIR-NML's Cree
 
 ---
 
+## Prediction Dashboard
+<img width="1852" height="897" alt="image" src="https://github.com/user-attachments/assets/b0957c60-079a-4e95-a237-cea9e82e82f2" />
+
+<img width="1832" height="910" alt="image" src="https://github.com/user-attachments/assets/ca41b715-8807-4776-8dd1-6782c92097a8" />
+
+
+---
+
+## Live Demo
+https://creep-strain-monitoring-rkkncth4wxrxu9v6rvcfdw.streamlit.app/
+
 # Industrial Background
 
 ## What is Creep?
@@ -54,21 +65,6 @@ The transition from secondary to tertiary creep is the most critical phase becau
 
 ---
 
-# Why Non-Destructive Testing (NDT)?
-
-Conventional creep monitoring relies on destructive metallographic testing, where samples are periodically removed from service for microscopic examination.
-
-This approach has several limitations:
-
-- Damages the component
-- Requires plant shutdown
-- High inspection cost
-- Cannot monitor continuously
-- Small sampled region may not represent the whole component
-
-To overcome these limitations, CSIR-NML developed an **Electromagnetic Eddy Current based sensing system** capable of continuously monitoring creep deformation.
-
----
 
 # Eddy Current Based Sensor
 
@@ -190,7 +186,7 @@ to ensure unbiased evaluation and proper generalization.
 
 ---
 
-# Model Development
+# Models
 
 Three regression models were developed and evaluated.
 
@@ -377,18 +373,6 @@ Alert Generation
 
 ## Creep Curve
 <img width="751" height="452" alt="image" src="https://github.com/user-attachments/assets/820f60cb-67d0-43db-b211-695825197c13" />
----
-
-## Prediction Dashboard
-<img width="1852" height="897" alt="image" src="https://github.com/user-attachments/assets/b0957c60-079a-4e95-a237-cea9e82e82f2" />
-
-<img width="1832" height="910" alt="image" src="https://github.com/user-attachments/assets/ca41b715-8807-4776-8dd1-6782c92097a8" />
-
-
----
-
-## Live Demo
-https://creep-strain-monitoring-rkkncth4wxrxu9v6rvcfdw.streamlit.app/
 
 ---
 
